@@ -1,0 +1,34 @@
+table {
+    text-align: center;
+    color: red;
+    background-color: blue;
+    vertical-align: center;
+    width: 600px;
+    height: 600px;
+    
+    
+}
+
+.td { 
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: solid;
+    margin: auto;
+    vertical-align: bottom;
+}
+
+body {
+    background-color: yellow;
+}
+
+#value {
+    color:white;
+    text-decoration: none;
+
+
+#value: hover {
+    color: yellow;
+    font-weight: bold;
+}
+}
