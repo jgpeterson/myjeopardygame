@@ -140,20 +140,12 @@ $(() => {
         }
     })
 
-
-
-
-
-
-
-add400 = () => {
-    var y = window.prompt("what is my name")
-    if(y === "James") { 
-        window.alert('correct')
-
-    } else { 
-        window.alert('incorrect')
-    }
-
-}
-})
+    $('.horrorMOVie').on('click', function(){
+        var y = window.prompt("What American remake of a Japanese horror film was released in the United States in 2002?")
+        if(y === "The Ring") { 
+            window.alert('correct')
+    
+        } else { 
+            window.alert('incorrect')
+        }
+    })
