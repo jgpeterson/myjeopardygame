@@ -71,6 +71,7 @@ font-weight: bold;
 .amount {
     color: white;
     font-size: 100%;
+    font-weight: bold;
 }
 
 #value {
