@@ -1,4 +1,11 @@
+
+
+const fightsong = document.getElementById('fightsong');
+fightsong.play();
 $(() => {
+
+    
+
     let score = 0;
 
     $('.mT').on('click', function(){
