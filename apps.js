@@ -258,10 +258,11 @@ $(() => {
     
         } else { 
             window.alert('incorrect')
-            score -= 400;
+            score -= 100;
             $("#score").html(score)
         }
     })
+    
 
 
 
