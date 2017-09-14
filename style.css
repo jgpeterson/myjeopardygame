@@ -68,6 +68,10 @@ font-size: 150%;
 font-weight: bold;
 }
 
+.amount {
+    color: white;
+}
+
 #value {
     color:white;
     text-decoration: none;
