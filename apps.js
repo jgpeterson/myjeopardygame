@@ -102,7 +102,7 @@ $(() => {
 
     $('.rnr2').on('click', function(){
         var y = window.prompt("What is the name of Green Day's seventh studio album?")
-        if(y === "Green Day") { 
+        if(y === "American Idiot") { 
             window.alert('correct')
             score += 200;
             $("#score").html(score)
