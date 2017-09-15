@@ -1,7 +1,9 @@
 
 
-const fightsong = document.getElementById('fightsong');
-fightsong.play();
+const Curb = document.getElementById('Curb');
+Curb.play();
+const Seinfeld = document.getElementById('Seinfeld');
+Curb.play();
 $(() => {
 
     
