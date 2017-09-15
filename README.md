@@ -15,3 +15,21 @@ Design - MockingBird
 Project Planning & User Stories - Trello
 Visual Studio Code
 
+FEATURES
+
+JavaScript's alert
+Score counter
+New Game Button
+Audio music for game
+
+
+WIREFRAME:
+
+
+
+FUTURE DEVELOPMENT
+
+Make it more responsive
+Refresh button on game board page
+Signal winner/loser upon games completion
+
