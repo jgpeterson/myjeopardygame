@@ -23,7 +23,7 @@ New Game Button
 Audio music for game
 
 
-WIREFRAME:
+WIREFRAME: ![wireframe drawing] (https://i.imgur.com/OaVEydJ.jpg)
 
 
 
